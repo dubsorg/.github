@@ -1,0 +1,5 @@
+{
+  "name": "Dubs Org Workflow for AWS App Runner",
+  "description": "This workflow template can be leveraged to generate a AWS App Runner workflow in your repository",
+  "iconName": "aws-apprunner-icon"
+}
